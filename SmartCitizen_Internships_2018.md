@@ -1,5 +1,5 @@
 <h1 id="smartcitizen-interns">Smartcitizen interns!</h1>
-<p>We would like to have some interns help us improve one of our projects <a href="http://SmartCitizen.me">SmartCitizen.me</a></p>
+<p>We would like to have interns help us improve one of our projects <a href="http://SmartCitizen.me">SmartCitizen.me</a></p>
 <p><strong>Right now</strong> we are looking for:</p>
 <ul>
 <li>Software Developers
