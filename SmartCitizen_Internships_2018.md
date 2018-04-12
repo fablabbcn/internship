@@ -21,8 +21,11 @@ It was originally built 2015 but the following tech stack is:</p>
 <li>Gulp</li>
 <li>Bower</li>
 </ul>
+<p>We have all our projects on Github, so after your internship is over, you will have something to showcase.</p>
+<p><a href="https://github.com/fablabbcn/smartcitizen-web/">https://github.com/fablabbcn/smartcitizen-web/</a></p>
 <h3 id="back-end">Back End</h3>
 <p>Our back end API is written in Ruby on Rails. We need help adding new features, fixing bugs and improve the overall quality of the API.</p>
+<p>The project is currently private on Github, but we will make it public, after we clean it up!</p>
 <p>We are also researching and preparing to move our infrastructure to Kubernetes.</p>
 <h3 id="embedded-developer"><s>Embedded developer</s></h3>
 <p>The Smart Citizen Kit uses C++</p>
