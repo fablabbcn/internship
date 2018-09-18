@@ -1,5 +1,15 @@
-<h1 id="smartcitizen-interns">Smartcitizen interns!</h1>
-<p>We would like to have interns help us improve one of our projects <a href="http://SmartCitizen.me">SmartCitizen.me</a></p>
+<h1 id="smartcitizen-jobs">Smartcitizen jobs</h1>
+<h2 id="current-team">Current team</h2>
+<ul>
+<li>Guillem - Project Manager</li>
+<li>Victor - Embedded Software Developer</li>
+<li>Viktor - Full Stack Developer + DevOps</li>
+<li>Dorian - Front End Developer</li>
+<li>Oscar - Data Analysis</li>
+<li><code>&lt;Your name here&gt;</code> - We are always looking for interns to help out!</li>
+</ul>
+<p>We would like to have interns help us improve one of our projects <a href="http://SmartCitizen.me">SmartCitizen.me</a><br>
+All of our projects are public on Github, so after your internship is over, you will have something to showcase.</p>
 <p><strong>Right now</strong> we are looking for:</p>
 <ul>
 <li>Software Developers
@@ -21,11 +31,9 @@ It was originally built 2015 but the following tech stack is:</p>
 <li>Gulp</li>
 <li>Bower</li>
 </ul>
-<p>We have all our projects on Github, so after your internship is over, you will have something to showcase.</p>
 <p><a href="https://github.com/fablabbcn/smartcitizen-web/">https://github.com/fablabbcn/smartcitizen-web/</a></p>
 <h3 id="back-end">Back End</h3>
 <p>Our back end API is written in Ruby on Rails. We need help adding new features, fixing bugs and improve the overall quality of the API.</p>
-<p>The project is currently private on Github, but we will make it public, after we clean it up!</p>
 <p>We are also researching and preparing to move our infrastructure to Kubernetes.</p>
 <h3 id="embedded-developer"><s>Embedded developer</s></h3>
 <p>The Smart Citizen Kit uses C++</p>
