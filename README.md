@@ -2,13 +2,13 @@
 We would like to have interns help us improve some of our projects at FabLab Barcelona.
 All of our projects are public on Github, so after your internship is over, you will have something to showcase.
 
-**Right now** we are looking for:
+Example profile we are **usually** looking for:
 * Software Developers
-  * Front End
-  * Back End
-  * ~~Embedded~~
-* ~~Designers~~
-* ~~Project managers~~
+  * Front End (JavaScript)
+  * Back End (Ruby / Python)
+  * Embedded (C++)
+* Designers
+* Project managers
 
 ## Software Developers
 
@@ -26,7 +26,7 @@ Our back end API is written in Ruby on Rails. We need help adding new features, 
 
 We are also researching and preparing to move our infrastructure to Kubernetes.
 
-### ~~Embedded developer~~
+### Embedded developer
 The Smart Citizen Kit uses C++
 
 ### Minimum requirements for a software developer
