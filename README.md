@@ -1,8 +1,5 @@
-# Smartcitizen jobs
-
-
 ## Internships
-We would like to have interns help us improve one of our projects SmartCitizen.me
+We would like to have interns help us improve some of our projects at FabLab Barcelona.
 All of our projects are public on Github, so after your internship is over, you will have something to showcase.
 
 **Right now** we are looking for:
